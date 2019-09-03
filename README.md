@@ -4,7 +4,7 @@
 
 1. Open a lab by clicking "Open" on this page on Learn.co.
 2. Run the lab's tests with the `learn` CLI command.
-3. Make a change to your local copy of this lab.
+3. Make a change to yolur local copy of this lab.
 4. Pass the tests using the `learn` CLI command.
 5. Submit the passing lab with the `learn submit` CLI command.
 
